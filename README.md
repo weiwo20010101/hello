@@ -1,3 +1,3 @@
 # hello
 测试git
-now from user1
+now from user2
